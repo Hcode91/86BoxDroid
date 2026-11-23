@@ -1,4 +1,4 @@
-package io.github.hozdogus.boxdroid;
+package com.hcode91.boxdroid;
 
 import android.os.Bundle;
 import android.system.ErrnoException;

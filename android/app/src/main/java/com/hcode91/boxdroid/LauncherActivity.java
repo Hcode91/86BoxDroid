@@ -1,4 +1,4 @@
-package io.github.hozdogus.boxdroid;
+package com.hcode91.boxdroid;
 
 import android.app.Activity;
 import android.app.AlertDialog;
